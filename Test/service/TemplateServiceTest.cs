@@ -1,6 +1,6 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace YourThunderstoreTeam.service;
+namespace Chaosmax109.service;
 
 public class TemplateServiceBaseTest
 {

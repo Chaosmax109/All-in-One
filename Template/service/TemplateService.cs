@@ -1,4 +1,4 @@
-﻿namespace YourThunderstoreTeam.service;
+﻿namespace Chaosmax109.service;
 
 /// <summary>
 /// Example of service detached from the game.
