@@ -5,11 +5,11 @@ schemaVersion = "0.0.1"
 repository = "https://thunderstore.io"
 
 [package]
-namespace = "YourThunderstoreTeam"
-name = "Template"
-description = "A template for Lethal Company plugins."
-websiteUrl = "https://github.com/Distractic/LethalCompanyTemplate"
-containsNsfwContent = false
+namespace = "Chaosmax109"
+name = "All in One"
+description = "A Lethal Company Mod that combindes the best mods into One big Mod."
+websiteUrl = ""
+containsNsfwContent = true
 
 [package.dependencies]
 # https://thunderstore.io/c/lethal-company/p/BepInEx/BepInExPack/
